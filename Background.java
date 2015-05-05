@@ -5,4 +5,13 @@ public class Background
    {
       super(name);
    }
+
+   public Point get_position()
+   {
+      return null;
+   }
+
+   public void set_position(Point point)
+   {
+   }
 }
