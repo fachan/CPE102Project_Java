@@ -9,5 +9,5 @@ public abstract class StaticEntity
    protected abstract int get_rate();
    protected abstract int get_animation_rate();
    protected abstract int get_resource_distance();
-   //public abstract Point find_open_around();
+   private abstract Point find_open_around();
 }
